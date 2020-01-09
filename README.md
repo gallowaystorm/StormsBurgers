@@ -1,5 +1,5 @@
 # StormsBurgers
-Java application I made to display Object-Oriented Programming topics.  This was built based off a challenge from an Udemy course.  The code is 100% original, however the idea of what to build is not.
+Java application I made to display Object-Oriented Programming concepts.  This was built based off a challenge from an Udemy course.  The code is 100% original, however the idea of what to build is not.  I purposely did not include any error checking and also assumed that all input will be exactly right 100% of the time.
 
 
 The challenege was: 
